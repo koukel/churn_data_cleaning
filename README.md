@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was altered from the first project completed during my MSDA program to use a public data set in order to add to my portfolio.  This serves as an early example of my abilities as a reference to see how I have grown as a data scientist.  The data used in this dataset is available in this repository, or can be downloaded [here](https://community.ibm.com/accelerators/catalog/content/Telco-customer-churn).
+This project is based on a project from my graduate program and altered in order to add to my public portfolio.  This serves as an early example of my abilities as a reference to see how I have grown as a data scientist.  The data used in this dataset is available in this repository, or can be downloaded [here](https://community.ibm.com/accelerators/catalog/content/Telco-customer-churn).
 
 In this project I have perfomed data exploration and basic cleaning functions.  Then the numeric columns from the cleaned data were used in an introductory level PCA analysis.
 
